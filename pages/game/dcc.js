@@ -1,17 +1,17 @@
 var questions_reponses = [
-	["Martin - Dans quelles circonstances (quel est l'évèvement déclencheur) décède Lexie Grey ?",
+	["NBA - Quel numéro est le plus porté cette saison ?",
 		[
-			"Yaëlle mime l'évènement",
-			"Aitor dessine l'évènement",
-			"Tu peux poser 10 questions (Oui et Non) à la personne que tu veux",
-			"Accident d'avion",
+			"8",
+			"23",
+			"2",
+			"13",
 		]],
-	["Lan - Quel est le nom de la chaîne Youtube de Kevin & Henry Tran ?",
+	["NBA - Qui porte ce numéro à OKC ?",
 		[
-			"Aitor dit le nom de la chaîne mais en utilisant des contraires (exemple : au lieu de le jour se lève : la nuit se couche)",
-			"Yaëlle mime le nom",
-			"Samuel dessine le nom",
-			"Le rire jaune",
+			"Jalen Williams",
+			"Luguentz Dort",
+			"Jaylin Williams",
+			"Ousmane Dieng",
 		]],
 	["Sam - Quel est le mot manquant dans le nom de cette fameuse thèse Dualité entre homologie d'[mot à déviner] et cohomologie L² ?",
 		[

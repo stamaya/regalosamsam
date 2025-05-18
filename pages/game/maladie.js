@@ -1,18 +1,5 @@
 var images = [
-	"../../assets/img/maladie/rules.png",
-	"../../assets/img/maladie/1.png",
-    "../../assets/img/maladie/2.png",
-    "../../assets/img/maladie/3.png",
-    "../../assets/img/maladie/4.png",
-    "../../assets/img/maladie/5.png",
-    "../../assets/img/maladie/6.png",
-    "../../assets/img/maladie/7.png",
-    "../../assets/img/maladie/8.png",
-    "../../assets/img/maladie/9.png",
-	"../../assets/img/maladie/01.png",
-    "../../assets/img/maladie/02.png",
-	"../../assets/img/maladie/10.png",
-	"../../assets/img/maladie/rules2.png",
+	
     "../../assets/img/maladie/11.png",
     "../../assets/img/maladie/12.png",
     "../../assets/img/maladie/13.png",
@@ -20,7 +7,16 @@ var images = [
     "../../assets/img/maladie/15.png",
     "../../assets/img/maladie/16.png",
     "../../assets/img/maladie/17.png",
-	"../../assets/img/end.png",
+	"../../assets/img/maladie/18.png",
+    "../../assets/img/maladie/19.png",
+    "../../assets/img/maladie/20.png",
+    "../../assets/img/maladie/21.png",
+	"../../assets/img/maladie/22.png",
+    "../../assets/img/maladie/23.png",
+	"../../assets/img/maladie/24.png",
+    "../../assets/img/maladie/25.png",
+    "../../assets/img/maladie/26.png",
+    "../../assets/img/maladie/27.png",
 ]
 
 var reponses = [
@@ -75,8 +71,4 @@ var reponses = [
 		document.getElementById("solution").classList.add("btn") ;
 	}
 
- 	function reponse() {
-		document.getElementById("solution").textContent = reponses[id] ;
-		document.getElementById("solution").style.style = "bold" ;
-		document.getElementById("solution").classList.remove("btn") ;
-	}
+ 	
